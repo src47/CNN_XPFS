@@ -5,7 +5,7 @@ U-net convolutional neural network for the analysis of X-ray Photon Fluctuation 
 
 To install requirements, `cd` into this repo directory and run:
 ```bash
-$ pip install -r requirements/requirements.txt
+$ pip install -r requirements.txt
 ```
 
 To install uncertainty toolbox, `cd` into `src/uncertainty-toolbox` and run:
