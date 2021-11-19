@@ -21,7 +21,7 @@ This repository contains the following folders:
 
  - models
 
-This folder contains the trained U-net model based on parameters from an accurate LCLS detector simulation. 
+This folder contains the trained U-net model based on parameters from an accurate LCLS detector simulation. Please refer to: https://www.nature.com/articles/s41598-021-98774-3 for more details on the implementation of the simulator.
 
 - data
 
