@@ -1,6 +1,28 @@
 # CNN_XPFS
 U-net convolutional neural network for the analysis of X-ray Photon Fluctuation Spectroscopy experiments. 
 
+## Installation
+
+To install requirements, `cd` into this repo directory and run:
+```bash
+$ pip install -r requirements/requirements.txt
+```
+
+To install uncertainty toolbox, `cd` into `src/uncertainty-toolbox` and run:
+
+```bash
+$ pip install -e .
+```
+
+## Running Notebooks
+
+First make sure this repo directory is on the PYTHONPATH, e.g. by running:
+```bash
+$ source add_pwd_to_pythonpath.sh
+```
+
+## Contents
+
 This repository contains the following folders: 
 
  - models
