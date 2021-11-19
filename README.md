@@ -8,7 +8,7 @@ To install requirements, `cd` into this repo directory and run:
 $ pip install -r requirements/requirements.txt
 ```
 
-## Running Notebooks
+## Usage
 
 First make sure this repo directory is on the PYTHONPATH, e.g. by running:
 ```bash
