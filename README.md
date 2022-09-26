@@ -12,7 +12,7 @@ $ pip install -r requirements/requirements.txt
 
 First make sure this repo directory is on the PYTHONPATH, e.g. by running:
 ```bash
-$ source shell/add_pwd_to_pythonpath.sh
+docker pull slaclab/slac-ml:20211101.0
 ```
 
 ## Contents
